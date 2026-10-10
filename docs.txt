@@ -1,0 +1,437 @@
+Actions with files and folders
+Basic actions with a file or folder are displayed in the top panel or in the context menu. To view additional actions, click the icon. All actions taken with files and folders are saved in History.
+Note
+If you open Yandex Disk in a small window, some file actions may move from the top panel to the context menu.
+
+Actions with files and folders
+View information about a file
+To get all information about a file or folder, click the icon in the top left corner. The menu displays:
+- Name (to change it, click Rename in the top panel or from the context menu).
+- Size.
+- Date updated.
+- Number of files (for folders).
+- Number of views and downloads (for a public file or folder).
+To view file sizes within a folder, display them as a list: select the corresponding display option in the top right corner. You will be able to see the file size in the right column.
+
+Actions with files and folders
+Sort the file list
+You can sort the list of files in a folder. Click Sort to see the available options.
+
+Actions with files and folders
+Select multiple files or folders
+To manage several files at once, select the area where they are located. All group operations are available on the panel. To select several files in a row, click the first and last file in a range while holding down the Shift key. To select several separate files, hold the Ctrl key for Windows or ⌘ for Mac OS X while selecting the files.
+Note
+You can select no more than 500 files at a time.
+Tips for organizing space on Yandex Disk
+
+Viewing files and folders
+You can view the files you've uploaded to Yandex Disk in the web interface without installing any software. The following file formats are supported:
+- Documents: DOC/DOCX, XLS/XLSX, PPT/PPTX, ODT, ODS, ODP, CSV, RTF, TXT, PDF.
+- Images: JPG, PNG, GIF, BMP, TIFF, NEF, EPS, PSD, AI.
+- Archives: ZIP, RAR, TAR.
+- eBooks: FB2, DJVU.
+- Audio and video: all popular formats.
+
+Viewing files and folders
+Viewing documents
+To switch to view mode, select a file and click View.
+You can scroll text documents and tables using the scroll bar or the ↑ and ↓ keys. For presentations, use the icons on the right and left sides of the screen or the ← and → keys.
+To view the number of pages in a document or to switch to fullscreen mode, hover over the bottom of the screen for the corresponding icon to appear.
+
+Viewing files and folders
+Viewing images
+Double-click an image to view it in full-screen mode.
+In this mode, you can view information about the image, as well as share, edit, rename, copy, download, and delete the image (using buttons in the top right corner). To open the original image or add it to an album, click and select the appropriate menu item. To hide the icons, click the image.
+To exit image-viewing mode, press the Esc key or close the window.
+
+Viewing files and folders
+Image quality has decreased
+Images are stored on Yandex Disk in their original quality. They are not compressed during upload. However, Yandex Disk creates previews in a lower resolution to view on the website, in order to reduce traffic and make user experience on Yandex Disk smoother. You'll see a preview if the file size doesn't exceed 50 MB. To view an image in its original quality, download it to your computer.
+
+Viewing files and folders
+I'm a photographer, and my photos are displayed on Yandex Disk in wrong colors
+This is most likely because an incorrect color profile was set when shooting or processing the photos. To display proper colors in photos in web browsers and most image viewing programs, you need to set the sRGB color profile. You can do this in the camera settings (when shooting in JPEG) or your image editor settings (when processing or converting from RAW to JPEG).
+The color profile of a photo can be changed at any time in the image editor. To do this in Adobe Photoshop, open the menu Edit → Convert to Profile, and in the Destination space field, select sRGB. After saving, proper colors will be displayed.
+
+Viewing files and folders
+Viewing archive contents
+You can view not only listed contents of an archive but also each file separately. Click the file to view it. To save the file to your Yandex Disk or download it to your computer, hover over it and click the button.
+
+Viewing files and folders
+Read books
+Customize the display according to your preferences:
+- Two-page view, like paper books. In this case, you can turn pages using the icons on the right and left sides of the screen or the ← and → keys. To switch to this view option, click → on the left side of the screen.
+- One-page view. In this case, you can turn pages using the scroll bar or the ↑ and ↓ keys. To switch to this view option, click → on the left side of the screen.
+
+Viewing files and folders
+Play audio and video
+To play an audio file, double-click it and click the play button in the window that appears.
+In this mode, you can view information about the audio file, share, download, or delete it (using the icons in the top right corner). To hide the icons, click anywhere on the screen.
+To exit playback mode, press the Esc key or close the window.
+To play a video file, double-click it.
+Alert
+You can listen to audio and watch videos on Yandex Disk only in browsers that support HTML5.
+
+Viewing files and folders
+Video quality has decreased
+Video files are stored on Yandex Disk in their original quality. They are not compressed during upload.
+If a video is played on Yandex Disk in low quality, it is most likely because low resolution is selected in the lower right corner of the video player. You can select a higher option. The maximum quality that you can watch videos in on the website is 1080p, so if the video resolution is higher, you can download it to your computer to watch it in the original quality.
+
+Moving files and folders
+Select the item that you want to move to another folder, and click → Move on the properties panel at the top. Specify the new location and click Move again.
+To move an item to a subfolder within the current folder, simply drag it there.
+
+Moving files and folders
+Move all files to another account
+Using a public link
+1. In the first account, move all files and folders to one folder.
+2. Create a public link for this folder.
+3. In the second account, open this public link and click Save to Yandex Disk.
+
+Moving files and folders
+Move all files to another account
+Using a shared folder
+1. In the first account, move all files and folders to one folder.
+2. Configure access to this folder for the second account.
+3. In the second account, copy the files from your shared folder to another folder on your Yandex Disk.
+
+Download
+To download a file or folder from your Yandex Disk, select it and click Download in the top panel. Folders are downloaded as ZIP archives.
+
+Download
+Download a large folder
+In the web version, you can download only folders that contain less than 500 files and are not larger than 5 GB. Use the Yandex Disk desktop application to download larger folders:
+1. Download the application from the Yandex Disk page and install it.
+2. Log in to the application.
+If you still haven't registered on Yandex, click on Register to get started. Then enter your username and password in the application.
+Alert
+If you use or have previously used two-factor authentication, you'll need a one-time password generated by the Yandex Key mobile app to authorize in the Yandex Disk application.
+3. In the context menu of the folder, select Create copy on computer.
+
+Download
+Download a large folder
+The downloaded folder doesn't sync with the cloud. If you have downloaded a folder, changed something in it, and want the changes to appear in Yandex Disk, upload the folder to Yandex Disk manually.
+If you want to download a folder and sync it with the cloud, select Save to computer from the context menu.
+
+Download
+Downloading all files from Yandex Disk
+Choose how you want to download all files:
+In the Yandex Disk desktop application
+From the Yandex Disk page
+Alert
+If you want to download files from the Trash or old versions of certain files, restore them before downloading them.
+
+Download
+Downloading all files from Yandex Disk
+Restore files from the Trash
+1. Open the Yandex Disk page.
+2. Go to Trash.
+3. Choose the files or folders you want to restore.
+4. In the top panel, click Restore.
+
+Download
+Downloading all files from Yandex Disk
+Restore old versions of files
+1. Open the Yandex Disk page.
+2. Select a file.
+3. Click → Changelog on the top panel or in the context menu.
+4. Select the desired version.
+5. Click Restore → Save as copy.
+
+Download
+Downloading all files from Yandex Disk
+To download all files through the Yandex Disk desktop application:
+1. Install the Yandex Disk application.
+2. In the application settings, specify the folder on your computer to which you want to download the files. To do this, select File → Settings → Set folder location.... In the Downloads section, select Browse and select the folder on your computer.
+3. Select all files and folders in the Yandex Disk application window.
+4. In the context menu, select Download. The files will be downloaded to the folder you selected for downloads.
+Alert
+If you want to download files from the Trash or old versions of certain files, restore them before downloading them.
+
+Download
+Downloading all files from Yandex Disk
+To download multiple files through your browser:
+1. Open the Yandex Disk page.
+2. Select files.
+3. Click the Download button at the top of the screen. Files are downloaded in an archive format.
+You can't download multiple folders. Folders can only be downloaded one at a time. However, you can move all your folders and files to one folder and download that single folder.
+Note
+Using the browser, you can only download files up to 5 GB. Download folders that are larger than 5 GB via the Yandex Disk desktop application following the instructions.
+
+Delete files and folders
+To delete a file or folder, select them and click Delete in the top panel or context menu.
+If there's no Delete button in the top panel, click → Delete.
+Files deleted from Yandex Disk end up in the Trash and still take up space on your Yandex Disk. They will be automatically deleted after 30 days. To free up space, empty the Trash manually.
+
+Delete files and folders
+Restore files and folders from the Trash
+You can restore deleted files and folders only if they're still in the Trash.
+1. Open the Trash.
+2. Choose the files or folders you want to restore.
+3. In the top panel, click Restore.
+Alert
+Once files are deleted from the Trash (automatically or manually), we can't recover them: emptying the Trash permanently deletes its contents from Yandex's servers.
+
+Delete files and folders
+Clear the Trash
+Files in the Trash still take up space on Yandex Disk. There are two ways to empty the Trash:
+Completely
+1. Open the Trash.
+2. Click the Empty Trash button.
+Partially
+1. Open the Trash.
+2. Choose the files or folders you want to restore.
+3. In the top panel, click Delete permanently.
+Alert
+Once files are deleted from the Trash (automatically or manually), we can't recover them: emptying the Trash permanently deletes its contents from Yandex's servers.
+
+Delete files and folders
+Clear your Yandex Disk
+If you need to clear your Yandex Disk completely, select all folders and files, delete them, and then empty the Trash.
+Alert
+If you clear your Yandex Disk, you won't be able to restore the deleted files.
+
+Edit documents
+You can create and edit documents, tables, and presentations directly on Yandex Disk.
+The following file formats are supported: DOCX for documents, XLSX for spreadsheets, and PPTX for presentations.
+The maximum file size that you can open in the editor:
+- For documents and tables — 100 MB.
+- For presentations — 200 MB.
+Alert
+If you open a document in an old format (DOC, RTF, ODT, XLS, ODS, PPT, or ODP) in the editor, Yandex Disk will suggest creating a copy of this document in a new format (DOCX, XLSX, or PPTX). You can edit the copy, while the original document will remain available for viewing.
+You can also work with all documents in one place: Yandex Documents.
+
+Edit documents
+Create a document
+To create a new document, table, or presentation, click the Create button on the left panel and choose the file type. You can also create documents using the context menu.
+If you want to edit an existing document, open it on Yandex Disk or upload it to Yandex Disk from your computer.
+
+Edit documents
+Using the editor
+Double-click the document to open it in the editor.
+All changes will be saved automatically. To close the document and return to the Yandex Disk folder, close the editor tab.
+You can rename the file, download it, or send it to print. To see additional file management options, open the File menu.
+
+Edit documents
+Collaborate on documents
+Up to 40 users can edit a document on Yandex Disk at the same time. To collaborate on a document with friends or colleagues, share it:
+1. In Yandex Disk, right-click the document and select Share in the contect menu. You can also share the document directly from the editor page. To do this, click Share in the top right corner.
+2. Select an access type: View or Edit.
+Alert
+You can't set up personal permissions (view-only or editing for different users) yet.
+3. If necessary, specify the security settings for the link.
+
+Edit documents
+Collaborate on documents
+Note
+Available only in Yandex 360 plans.
+- For documents with the View access, you can set a password. Only those you share the password with will be able to access the document.
+1. Enable Set password.
+2. Enter a password that's at least 4 characters long and remember it.
+3. Click Done.
+Once the password is set, you can edit or remove it.
+Note
+For documents with the Edit access, you can set a password in the editor.
+
+Edit documents
+Collaborate on documents
+If you share the link on social media or in a messaging app
+- If you set a password and then share the protected link through social media or a messaging app, the document preview and title will be hidden.
+- If you share a public link via social media or a messaging app and then set a password, users will see the document preview and title, but the contents of the link will be password-protected.
+
+Edit documents
+Collaborate on documents
+Available only in Yandex 360 plans.
+- You can disable downloads for files or folders with View access. After users follow such a link, the Download, Save to Yandex Disk, and Print buttons will be unavailable to them. Users can only view the document from a public page.
+Alert
+Keep in mind that they can still take a screenshot of the document or record it on video.
+
+Edit documents
+Collaborate on documents
+Available only in Yandex 360 plans.
+- Set an expiration date: when the time expires, the link will be deleted and the document will become unavailable to users until you share it again.
+4. Click Copy link and share it in a way you prefer.
+
+Edit documents
+I can't grant edit access
+If there is only the View but no Edit option in the access management window, this means collaborative editing is not available for this document yet.
+Why this may happen:
+The document is opened in the old editor
+The new editor with the option for collaborative editing may not have been activated for this document yet. Close the document tab and try sharing it again.
+
+Edit documents
+I can't grant edit access
+The document is in an old format
+DOC, PPT, and XLS files can only be opened for collaborative viewing. If you want to collaborate on this document with others, open it in the editor first. This creates a shareable copy of the document in a new format.
+
+Edit documents
+I can't grant edit access
+The document is stored in a shared folder, and its owner uses the old editor
+Ask the folder owner to grant you edit access to the document. This way, the new editor will be activated for them, and collaborative editing will be enabled. After that, you can also share the document.
+
+Edit documents
+View history
+You can view the version history of files that you edit.
+
+View email attachments
+The Email attachments folder on Yandex Disk contains files that were too large for an email (over 25 MB). This can be multiple small attachments or a single large file. These files are automatically uploaded to Yandex Disk and sent as links. This happens because many services don't accept emails with large attachments.
+The maximum size of one attachment is 1 GB. You can attach larger files to emails only with an active Yandex 360 plan.
+
+View email attachments
+Note
+Files sent as links to Yandex Disk are available only to the sender and the recipient. Other people can access your files only if the sender or recipient gives them links to files or posts them on public resources.
+
+View email attachments
+All email attachments take up space on your Yandex Disk, sync with the Yandex Disk folder, and are available in mobile apps, just like any other files. If there's not enough space on Yandex Disk, you won't be able to attach large files.
+
+View email attachments
+If you move a file from Email attachments to another folder, the recipient of the email can still access it. But if you turn off the public link to this file or delete it from Yandex Disk, the recipient won't be able to view the file.
+
+View email attachments
+A file is missing from Email attachments
+If you can't find an attachment in the Email attachments folder, most likely, this is because the email with this attachment was sent before 2020. Such files are stored in the Archive. You can only access them through the Yandex Disk web interface.
+Note
+If you don't see the Archive folder in the left list, it means this section of your Yandex Disk is empty.
+
+Problems with files
+Files won't download
+When using Yandex Disk, some of the following issues might occur: buttons stop working, page elements don't load, photos don't open, files fail to download, or the browser reports an error.
+Why this happens and how to fix it:
+
+Problems with files
+Files won't download
+Public file downloads are restricted
+If a public file was downloaded many times during the day, the download limit is activated, and the download may be restricted for a day. If you don't want to wait, save the file to your Yandex Disk using the Save to Yandex Disk button. To download public files without restrictions, activate any Yandex 360 plan.
+Note
+You can only download folders that contain less than 500 files or are not larger than 5 GB. Download folders that are larger than 5 GB via the Yandex Disk desktop application following the instructions.
+
+Problems with files
+Files won't download
+The file owner has disabled downloads
+If the file owner selected the Disable download option when creating the link, you won't be able to download the file or copy it to your Yandex Disk. The file can only be viewed from the public page. Ask the file owner to create a link that allows file downloads.
+
+Problems with files
+Files won't download
+The browser doesn't display the page correctly
+To reduce traffic consumption, the browser saves copies of visited pages in the cache. When you view these pages again, the browser may load them from the memory. If you change the file name in the desktop application and the browser loads information about this file from memory, you will see an outdated file name.
+Try refreshing the page to load its updated version. If the problem persists, clear the browser cache and delete all cookies.
+
+Problems with files
+Files won't download
+Extensions block Yandex Disk
+Yandex Disk may work incorrectly due to browser add-ons and extensions. To check if this is the case, temporarily disable them. If Yandex Disk is working incorrectly because of an ad-block or an antivirus extension, add Yandex Disk to the list of exceptions for that extension.
+
+Problems with files
+Files won't download
+Data blocking enabled in the browser
+Follow the instructions for your browser to disable data blocking:
+Yandex Browser
+1. Open your browser settings.
+2. Go to Websites.
+3. Scroll down and click Advanced site settings.
+4. Scroll down to Cookies.
+5. Disable Restrict third-party cookies.
+
+Problems with files
+Files won't download
+Data blocking enabled in the browser
+Mozilla Firefox
+1. ****Open the browser settings.
+2. Go to Privacy & Security.
+3. Scroll down to Cookies and Site Data.
+4. Click Manage Exceptions....
+5. In the field Address of website, enter https://disk.yandex.com/client/disk.
+6. Click Allow.
+7. Save your changes.
+
+Problems with files
+Files won't download
+Data blocking enabled in the browser
+Google Chrome
+1. Open your browser settings.
+2. In the left menu, select Privacy and security.
+3. Go to Site settings and click Third-party cookies.
+4. ****Disable it.
+
+Problems with files
+Files won't download
+Data blocking enabled in the browser
+Opera
+1. Open your browser settings.
+2. Go to Privacy & security.
+3. Open Site settings → Third-party cookies.
+4. ****Disable it.
+
+Problems with files
+Files won't download
+Data blocking enabled in the browser
+Edge
+1. Open the browser settings.
+2. Go to Cookies and site permissions.
+3. Under Cookies and site data, you'll see the option Block third-party cookies.
+4. ****Disable it.
+
+Problems with files
+Files won't download
+Data blocking enabled in the browser
+Internet Explorer
+1. Open the browser properties.
+2. Go to Privacy and click Advanced.
+3. Under Third-party cookies, select Accept.
+4. Save your changes.
+
+Problems with files
+Files won't download
+You are using an outdated browser
+An outdated browser may not support the technologies used for fast and convenient page loading. Install the latest version of your browser.
+
+Problems with files
+Files won't download
+Your Internet connection is affected by an antivirus, firewall, or proxy
+Yandex Disk may work incorrectly due to an antivirus, firewall, or proxy server. To check this, temporarily disable them. If Yandex Disk isn't working properly because of an antivirus or firewall, add Yandex Disk to the antivirus or firewall's exceptions.
+
+Problems with files
+Files won't download
+The internet connection slowed down
+Check your connection speed at yandex.com/internet. Close all tabs in your browser except Yandex Disk. Turn off applications that use the internet and refresh the page.
+
+Problems with files
+Files do not open or are broken
+If your files on Yandex Disk don't open and there are duplicates with suspicious extensions, it is likely that your computer is infected with an encryption virus. Such viruses modify all files on the computer. As the Yandex Disk program syncs the changes, files were changed on the Yandex Disk server as well. Unfortunately, Yandex Disk can't distinguish between the actions of a virus and a user.
+To restore files:
+1. Please check your computer for viruses with free anti-virus programs such as CureIt! from Dr. Web or Virus Removal Tool from the Kaspersky Lab.
+2. Change your password in the Yandex ID settings, link your phone number to the account, and change your security question and answer. It's better to do this after the virus scan.
+3. Try searching for files in the Trash. If the virus deleted the original files and replaced them with broken ones, the original files might be found in the Trash on Yandex Disk. If it has been less than 30 days since the virus activated, files may still be in the Trash.
+4. If the original files are not in the Trash, most likely, the virus didn't delete but encrypted them. Try restoring old versions of encrypted files from the version history. If there are no old versions in the version history, it's impossible to restore the files.
+
+Yandex Disk files are missing
+If you can't find your files on Yandex Disk, they probably ended up in another folder or the Trash. If you remember the file name, extension, or body text, try searching your Yandex Disk folders and the Trash for it.
+You can also look through your history to see what happened with your missing files.
+Note
+If you have several accounts on Yandex, make sure that you are logged in to the account where you want to find files. You may be looking for files on the wrong account.
+
+Yandex Disk files are missing
+Restore files from the Trash
+If your missing files are not in the Trash, it's possible that they were deleted if more than a month has elapsed (the Trash is automatically emptied after a month). If that's the case, those files can't be restored.
+If your files were deleted less than a month ago, you can restore them:
+1. Open the Trash.
+2. Select the files you want to restore.
+3. In the top panel, click Restore.
+
+Yandex Disk files are missing
+Why could my files be deleted from Yandex Disk if I didn't delete them
+Files were deleted from the Yandex Disk folder on your computer
+When you delete a file from the Yandex Disk folder on your computer, it is automatically moved to the Trash on the Yandex Disk server. After a month from the moment of moving the files to the Trash, the Trash is automatically cleared, and the files are deleted forever.
+If you want your files to be available only through the browser so that they don't take up space on your computer, set up selective sync (see the instructions for Windows and macOS).
+
+Yandex Disk files are missing
+Why could my files be deleted from Yandex Disk if I didn't delete them
+Files were deleted from the mobile app
+If you delete a file in the mobile app, it is automatically moved to the Trash on the Yandex Disk server. A month after the files are moved to the Trash, the Trash is automatically cleared, and the files are deleted forever.
+
+Yandex Disk files are missing
+Why could my files be deleted from Yandex Disk if I didn't delete them
+Files were deleted by one of the people who have access to your shared folder
+If you have a shared folder and you've given others edit access, it means they can change and delete files in that folder.
+If someone who has access to your shared folder deletes a file from it, then the file will automatically move to the Trash of both the person who deleted it and the folder's owner. A month after the files are moved to the Trash, the Trash is automatically cleared, and the files are deleted forever.
+The files are also permanently deleted for anyone else with access to the folder.
