@@ -193,3 +193,11 @@ No, you cannot recover your presentation from the Trash
 - сделать сематический поиск умнее, лучше нарезать на куски
 - поменять промпт
 - дообучение
+
+
+### инструкция по запуску
+
+```
+pip install -r requirements.txt
+python app.py
+```
