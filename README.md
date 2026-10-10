@@ -198,6 +198,8 @@ No, you cannot recover your presentation from the Trash
 ### инструкция по запуску
 
 ```
+git clone https://github.com/scipsy0-0/support-nano-GPT.git
+cd support-nano-GPT
 pip install -r requirements.txt
 python app.py
 ```
