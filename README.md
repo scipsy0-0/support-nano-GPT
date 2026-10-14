@@ -176,17 +176,22 @@ No, you cannot recover your presentation from the Trash
 
 ### Немного тестов
 
-"успехи"
+таблица вопрос ответ
 
-![alt text](image-1.png)
-![alt text](image-2.png)
-![alt text](image-4.png)
-![alt text](image-5.png)
-![alt text](image-7.png)
-
-провалы
-![alt text](image-3.png)
-![alt text](image-6.png)
+| Question | Answer |
+|---|---|
+| Where do deleted files go? | Deleted files go to the Trash on Yandex Disk server |
+| How long do files stay in the Trash? | Files stay in the Trash for 30 days |
+| Do files in the Trash take up space? | Yes, files in the Trash take up space on Yandex Disk |
+| What format are folders downloaded in? | Folder download is downloaded as ZIP archives |
+| How do I sort files? | Sort files in a folder |
+| How many files can I select at once? | You can select multiple files at once |
+| How do I get a photo in its original quality? | To get a photo in its original quality, download it to your computer and double-click an image to view it in full-screen mode |
+| How do I play a video? | To play a video, double-click it and click the play button in the window that appears |
+| What is the maximum video playback quality on the website? | The maximum video playback quality on the website is 1080p |
+| Are document changes saved automatically? | Yes, document changes are saved automatically |
+| How many users can edit a document at the same time? | There are 40 users able to edit a document at the same time |
+| Can I edit XLSX spreadsheets on Yandex Disk? | Yes, you can edit XLSX spreadsheets on Yandex Disk |
 
 ### Возможные решения проблем
 - увеличение модели, есть модель на 774M
